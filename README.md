@@ -2,6 +2,12 @@
 **สำหรับทีมงานและทีมแพทย์ที่ร่วมวิจัย "Waan AI"**  
 **ภาษาไทย** – **ใช้ได้ทันที** – **อัปเดตเวอร์ชัน 1.0** (2025-06-25)
 
+> **ภาษา**: Thai / English  
+> **ใบอนุญาติ**: Apache 2.0 – Commercial use allowed  
+> **Domain**: Diabetes + CGM + Food (Thai language)
+
+📊 **[ดู Mind Map ของเอกสารนี้](./markmap.svg)**
+
 ---
 
 ## 📌 สารบัญ
@@ -169,6 +175,8 @@
 > **Language**: Thai / English  
 > **License**: Apache 2.0 – Commercial use allowed  
 > **Domain**: Diabetes + CGM + Food (Thai language)
+
+📊 **[View Mind Map of this Document](./markmap.svg)**
 
 ---
 

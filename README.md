@@ -2,6 +2,10 @@
 **สำหรับทีมงานและทีมแพทย์ที่ร่วมวิจัย "Waan AI"**  
 **ภาษาไทย** – **ใช้ได้ทันที** – **อัปเดตเวอร์ชัน 1.0** (2025-06-25)
 
+> **ชุดข้อมูลภาษาไทยสำหรับ Fine-tune LLM ในโดเมนเบาหวาน CGM และอาหาร โดย WaanAI**  
+> พร้อมคำแนะนำที่ถูกต้องและใช้พาณิชย์ได้ (Apache 2.0)  
+> **Discord**: [https://discord.gg/QWkwyjT5](https://discord.gg/QWkwyjT5)
+
 > **ภาษา**: Thai / English  
 > **ใบอนุญาติ**: Apache 2.0 – Commercial use allowed  
 > **Domain**: Diabetes + CGM + Food (Thai language)
@@ -171,6 +175,10 @@
 ---
 
 # 📄 Dataset Collection Guide – Waan AI (Thai Diabetes)
+
+> **Thai-language dataset for fine-tuning LLMs in diabetes, CGM, and food domains by WaanAI.**  
+> Provides accurate, explainable recommendations. Apache 2.0 licensed for commercial use.  
+> **Discord**: [https://discord.gg/QWkwyjT5](https://discord.gg/QWkwyjT5)
 
 > **Language**: Thai / English  
 > **License**: Apache 2.0 – Commercial use allowed  

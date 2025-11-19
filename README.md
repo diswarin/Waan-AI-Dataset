@@ -161,7 +161,7 @@
 
 ## 10. ช่องทางส่งข้อมูล
 - **Google Drive**: [https://drive.google.com/drive/folders/waan-dataset](https://drive.google.com/drive/folders/waan-dataset)  
-- **Hugging Face**: [https://huggingface.co/datasets/waan-ai/diabetes-th](https://huggingface.co/datasets/waan-ai/diabetes-th)  
+- **Hugging Face**: [https://huggingface.co/datasets/waan-ai/waan-ai-diabetes-th](https://huggingface.co/datasets/waan-ai/waan-ai-diabetes-th)
 - **Email**: [diswarin@mrdiswarin.com](mailto:diswarin@mrdiswarin.com)
 
 ---
